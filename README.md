@@ -14,142 +14,140 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0ea5e9&height=200&text=Hi,%20I'm%20M.%20Rizki%20Ramadhani&fontSize=38&fontColor=f0f6fc&fontAlignY=38&animation=twinkling&desc=OmIkyy%20%7C%20Full-Stack%20Web%20Developer&descSize=20&descAlignY=62&descColor=7dd3fc&section=header" width="100%" /><p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=650&lines=Welcome+to+OmIkyy's+Realm+%E2%9A%94%EF%B8%8F;Full-Stack+Web+Developer+%F0%9F%9A%80;Node.js+%7C+JavaScript+%7C+PHP;WhatsApp+Bot+Builder+%F0%9F%A4%96;Always+Learning+%E2%9C%A8" alt="Typing SVG" />
-</p><p align="center">
-  <b>⚡ OM I KYY • CODE • CREATE • EVOLVE ⚡</b>
-</p>---
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=OMIKYY&fontSize=75&fontColor=ffffff&fontAlignY=38&desc=M.%20RIZKI%20RAMADHANI&descAlignY=63&descSize=23&descColor=67e8f9&color=0:020617,45:0f172a,100:06b6d4&animation=twinkling&section=header" width="100%"/><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2800&pause=700&color=22D3EE&center=true&vCenter=true&width=800&lines=⚡+WELCOME+TO+OMIKYY'S+REALM+⚡;Full-Stack+Web+Developer+🚀;Node.js+%7C+JavaScript+%7C+TypeScript;WhatsApp+Bot+Builder+🤖;ENTERING+DEVELOPER+REALM...+🐉" /><br><br>
 
-🧑‍💻 About Me
+<!-- Animated Developer --><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="420"/><br><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=94A3B8&center=true&vCenter=true&width=650&lines=Initializing+Core...;Loading+Developer+Skills...;Loading+Projects...;System+Online+%E2%9C%85" /></div>---
 
-name: M. Rizki Ramadhani
-nickname: OmIkyy
-location: Indonesia 🇮🇩
-role: Full-Stack Web Developer
-focus:
-  - Web Development
-  - Node.js
-  - WhatsApp Bot
-  - Database Systems
-  - API Development
+<div align="center">🐉 "DEVELOPER PROFILE"
 
-mindset: Learn → Build → Improve → Repeat 🚀
+╔══════════════════════════════════════════════╗
+║              ⚡ OMIKYY SYSTEM ⚡              ║
+╠══════════════════════════════════════════════╣
+║                                              ║
+║  NAME       : M. Rizki Ramadhani            ║
+║  ALIAS      : OmIkyy                         ║
+║  ROLE       : Full-Stack Web Developer       ║
+║  LOCATION   : Indonesia 🇮🇩                  ║
+║                                              ║
+║  STATUS     : 🟢 ONLINE                      ║
+║  MODE       : ⚡ BUILD                       ║
+║  ENERGY     : ∞                              ║
+║                                              ║
+╚══════════════════════════════════════════════╝
 
----
+</div>---
 
-⚔️ My Developer Realm
+<div align="center">⚔️ "CULTIVATION REALM"
 
-<p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,php,mysql,postgres,supabase,git,github,vscode&theme=dark" /></p>🔥 Cultivation Level
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300"/><br>              ✦ DEVELOPER CORE ✦
 
-🌱 Web Foundation
-████████████████████  95%
+                    ⚡
+               ╱         ╲
+            ⚡               ⚡
+          ⚡       🐉         ⚡
+            ⚡               ⚡
+               ╲         ╱
+                    ⚡
 
-⚡ Frontend Development
-██████████████████░░  85%
+             POWER LEVEL
+                8,888
 
-🔥 Backend Development
-█████████████████░░░  80%
+LEVEL 01 — FOUNDATION
 
-🐉 Database & API
-████████████████░░░░  75%
+"████████████████████" "100%"
 
-🤖 WhatsApp Bot
-█████████████████░░░ 80%
+LEVEL 02 — FULL-STACK
 
----
+"█████████████████░░░" "85%"
 
-🐉 My Coding Companion
+LEVEL 03 — BACKEND
 
-<p align="center"><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="80"></p><p align="center">
-  <i>
-    "Every bug is another realm waiting to be conquered."
-  </i>
-</p>---
+"████████████████░░░░" "80%"
 
-🛠️ Tech Stack
+LEVEL 04 — SYSTEM
 
-💻 Core
+"██████████████░░░░░░" "70%"
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,php" />
-</p>🎨 Frontend
+</div>---
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite" />
-</p>⚙️ Backend
+🧬 "TECHNOLOGY ARSENAL"
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,php" />
-</p>🗄️ Database
+<div align="center"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,php,mysql,postgres,supabase,git,github,vscode,postman&theme=dark" /></div>---
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,supabase" />
-</p>🔧 Tools
+<div align="center">🔥 "SKILL TREE"
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
-</p>---
+⚔️ Realm| 🧠 Ability
+🌐 Frontend| HTML • CSS • JavaScript • React • Next.js
+⚙️ Backend| Node.js • Express • PHP
+🗄️ Database| MySQL • PostgreSQL • Supabase
+🤖 Automation| WhatsApp Bot • REST API
+🛠️ Tools| Git • VS Code • Postman
 
-🚀 Featured Projects
+</div>---
 
-🤖 WhatsApp Bot
+<div align="center">🎮 "PROJECT QUESTS"
 
-Automation bot built with Node.js for WhatsApp services and business automation.
+</div>🤖 Quest — WhatsApp Automation
 
-Stack: Node.js • JavaScript • Baileys • API
+╭────────────────────────────────────╮
+│  QUEST TYPE : AUTOMATION            │
+│  CORE        : NODE.JS              │
+│  STATUS      : 🟢 ACTIVE            │
+│  POWER       : ████████████████░░   │
+╰────────────────────────────────────╯
 
----
-
-🌐 Web Application
-
-Modern responsive web applications with database integration and REST APIs.
-
-Stack: React • Next.js • Node.js • Supabase
+Building WhatsApp automation and bot systems with Node.js and APIs.
 
 ---
 
-📡 Network & System Projects
+🌐 Quest — Full-Stack Web
 
-Projects related to networking, server management, automation, and system development.
+╭────────────────────────────────────╮
+│  QUEST TYPE : WEB APPLICATION       │
+│  CORE        : FULL-STACK           │
+│  STATUS      : 🟢 BUILDING          │
+│  POWER       : ██████████████░░░░   │
+╰────────────────────────────────────╯
 
-Stack: Node.js • Linux • Database • API
-
----
-
-🧠 Current Training
-
-[████████████████████]  Full-Stack Development
-[██████████████████░░]  Node.js
-[████████████████░░░░]  API Development
-[███████████████░░░░░]  System Architecture
-[██████████████░░░░░░]  Advanced TypeScript
+Creating responsive websites with modern frontend, backend, API, and database systems.
 
 ---
 
-🌌 Developer Philosophy
+🛰️ Quest — System Development
 
-<p align="center"><b>CODE</b> ⚡
-↓
-<b>BUILD</b> 🔥
-↓
-<b>BREAK</b> 💀
-↓
-<b>DEBUG</b> 🛠️
-↓
-<b>LEARN</b> 🧠
-↓
-<b>EVOLVE</b> 🐉
+╭────────────────────────────────────╮
+│  QUEST TYPE : SYSTEM                │
+│  STATUS      : ⚡ ACTIVE             │
+│  POWER       : █████████████░░░░░   │
+╰────────────────────────────────────╯
 
-</p>---
+Developing useful systems, automation, APIs, and digital solutions.
 
-📫 Connect With Me
+---
 
-<p align="center"><a href="https://github.com/">
-<img src="https://img.shields.io/badge/GitHub-OmIkyy-181717?style=for-the-badge&logo=github&logoColor=white">
-</a></p>---
+<div align="center">🌌 "REALM STATUS"
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0ea5e9&height=120&section=footer" width="100%" /><b>⚡ M. Rizki Ramadhani • OmIkyy ⚡</b>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=600&color=22D3EE&center=true&vCenter=true&width=700&lines=%3E+Connecting+to+Developer+Core...;%3E+Frontend+Realm+%5BONLINE%5D;%3E+Backend+Realm+%5BONLINE%5D;%3E+Database+Realm+%5BONLINE%5D;%3E+API+Realm+%5BONLINE%5D;%3E+Automation+Realm+%5BONLINE%5D;%3E+ALL+SYSTEMS+OPERATIONAL+%E2%9C%85" /></div>---
 
-<br><sub>Built with curiosity, caffeine, and code ☕💻</sub>
+<div align="center">🐲 "THE DEVELOPER"
 
-</p>
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="380"/><br><br>
+
+«Code is not just written.
+It is cultivated. ⚡»
+
+<br>"LEARN" → "BUILD" → "DEBUG" → "IMPROVE" → "EVOLVE"
+
+</div>---
+
+<div align="center">📡 "CONTACT"
+
+<a href="mailto:your-email@example.com">
+<img src="https://img.shields.io/badge/EMAIL-Contact%20OmIkyy-06B6D4?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a><br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:06b6d4,50:0f172a,100:020617&section=footer" width="100%"/>⚡ "M. RIZKI RAMADHANI • OMIKYY"
+
+<sub>CODE • CREATE • EVOLVE 🐉</sub>
+
+</div>
